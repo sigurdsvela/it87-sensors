@@ -1,0 +1,2 @@
+chip "it8620-isa-0a40"
+	label temp3 "CPU Temp"
